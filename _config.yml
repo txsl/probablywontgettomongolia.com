@@ -7,24 +7,16 @@ relative_permalinks: true
 # Setup
 title:               Poole
 tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+url:                 http://probablywontgettomongolia.com
 paginate:            1
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+baseurl:             "/"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Thomas Lim
+  url:               https://twitter.com/t8lim
+  email:             txsl@outlook.com
 
 # Custom vars
-version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/txsl/probablywontgettomongolia.com
