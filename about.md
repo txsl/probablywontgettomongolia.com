@@ -1,30 +1,24 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+The Mongol Rally is one of the toughest motoring events on the planet, with hundreds of teams covering two continents and 10,000 miles of often inhospitable terrain to get to Mongolia at all costs. We are not doing the Mongol Rally: instead, this group of intrepid adventurers is going it alone, tackling the highways, byways and no-ways of Europe, the Caucasus and Central Asia, running in the face of the approaching Siberian winter.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## The Team
 
-There are currently two themes built on Poole:
+**Thomas** studied electrical and electronic engineering, so should have no problem powering a small Mongolian town from a car cigarette lighter or electrocuting any Russian police who get in our way. His hobbies include meeting friends for coffee, drinking coffee alone, and talking about coffee.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+**George** has won prizes for international relations, having tried to seduce women in several languages including Scouse and Russian. Well versed in philosophy and international politics, George’s main responsibilities are to ensure that we stay out of the Lubyanka and to tell us which Russian foods to avoid and request that our meals come without dill.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+**Nick** finished Geology and will provide a running commentary on rock formations. In his spare time he enjoys mugging people off. Nick destresses by playing Euro Truck Simulator - an experience which has prepared him well for the Autobahn cruising on this trip.
 
-## Setup
+**Johannes** is an aeronautical engineering graduate which will be useful for making our flying brick of a Land Rover more aerodynamic. He also has an uncle who is a doctor and willing to (perfectly legitimately) provide us with all sorts of useful medication.
 
-Some fun facts about the setup of this project include:
+## The Car
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+On such a mammoth journey reliability is key, so what better than a British made car that is 23 years old?(!) At its time of launch, the Land Rover Discovery broke new ground - a car which took you off road without rearranging your internal organs (yes, the Land Rover Defender really does do that, and deafen you). With a shiny new gearbox (now with five gears) and a box full of spanners we hope to make it to Mongolia and back in one piece. The car's name is still pending, Achilles and Ethel being likely options.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+## The Route
 
-Thanks for reading!
+We’re not exactly sure yet, hence the name of this site. We hope to drive through Europe, crossing into those countries that aren’t fully European but still manage to sneak into Eurovision (Turkey, Georgia, Azerbaijan). We then plan to get a ferry from Baku, Azerbaijan to Aktau, Kazakhstan (an Asian country which managed to sneak a team into Champions league); we are reliably informed (thanks Caravanistan!) that this ferry takes anything between 2 days and a week. We will then, hopefully, drive north into Russia, east across to Mongolia before heading back through the vast expanse of Russia into the European Union, all before our Russian visas expire.
