@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 1&#58; Bruges to Nuremberg
+title: Day 2&#58; Bruges to Nuremberg
 ---
 
 Nice and early 5.30am wake up. Leave with enough time to hopefully reach Graz, Austria in the evening. 1200km is a long drive by any standards, but a 6am breakfast of Waffles in the car (to fulfil Belgian stereotypes) was a good start to a long day.
