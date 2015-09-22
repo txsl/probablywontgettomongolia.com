@@ -1,0 +1,16 @@
+---
+layout: post
+title: Day 8&#58; Batumi to Akhaltsikhe
+---
+
+One site in Batumi we noticed the day before was the most peculiar looking McDonalds any of us had seen before. Integrated into the same building as a petrol station, it did stick out in Batumi, but would stick out anywhere with its unique architecture. Not wanting to miss out on this unique experience, we had breakfast. Sadly, the McBreakfast has not made its way to Georgia yet, so it was cheese burgers and McChicken wraps all round.
+
+We formulated the 'EasyJet rule' - that is if a city or place is an EasyJet destination, it is easy to get to and thus not worth spending much time in during this trip. Georgia is nowhere near an EasyJet destination, so we thought we should go a little slower and take in some of its sites. The cave city of [Vardzia](http://www.atlasobscura.com/places/vardzia) are famous for their size and condition today. The drive there looked straight forward enough, so we set out, fuelled on our McDonalds breakfasts.
+
+What we quickly learnt about the road networks in countries such as Georgia is that they are usually hub and spoke networks; all roads lead to the capital city, so the fastest and most comfortable way to get around is to go via the capital, whatever the destination. The road we took started out nice, but soon turned into a dirt track. Although fairly well maintained, our average speed certainly dropped below what we had previously been acheiving. One of the main obstacles were the numerous herds of cows being moved along roads. None the less, the route gave some gorgeous views of Georgia and the Caucasus mountain range. We also drove past a ski resort under construction, which gave Johannes immense joy since the ski lift was built by an Austrian company.
+
+We got to the cave city of Vardzia in the late afternoon, and they did not disappoint. The valley they were in was pretty in itself, and the rock composition quite unique, giving Nick ample chance to demonstrate four years of a Geological training. The caves were constructed to provide a hideout for the local population during Mongol raids. The sheer number of caves gave away the scale of the project; one would need a full day to properly explore all of them, yet most of them were actually destroyed in an earthquake.
+
+On the way back from the caves to Akhaltsikhe, we stopped at an abandoned castle in the village of Khertvisi. There wasn't much going on there, other than a stray dog to welcome us and follow us around, and some cattle taking water.
+
+We got back to Akhaltsikhe in the dark, observing some sketchy Georgian style overtaking on dark roads. Nick adapted to the local driving style somewhat, overtaking a truck in the face of an oncoming truck, leaving less room than we thought ideal. He maintains that he left more space than the locals do. We got into the town after most restaurants had closed, but George used his skills of persuasion in Russian to tell the restaurant owner how much we were looking forward to trying Georgian cuisine, and we were served a delicious beef stew.

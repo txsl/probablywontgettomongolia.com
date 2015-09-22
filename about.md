@@ -9,7 +9,7 @@ The Mongol Rally is one of the toughest motoring events on the planet, with hund
 
 **Thomas** studied electrical and electronic engineering, so should have no problem powering a small Mongolian town from a car cigarette lighter or electrocuting any Russian police who get in our way. His hobbies include meeting friends for coffee, drinking coffee alone, and talking about coffee.
 
-**George** has won prizes for international relations, having tried to seduce women in several languages including Scouse and Russian. Well versed in philosophy and international politics, George’s main responsibilities are to ensure that we stay out of the Lubyanka and to tell us which Russian foods to avoid and request that our meals come without dill.
+**George** has won prizes for international relations, having practised International Diplomacy in several languages including Scouse and Russian. Well versed in philosophy and international politics, George’s main responsibilities are to ensure that we stay out of the Lubyanka and to tell us which Russian foods to avoid and request that our meals come without dill.
 
 **Nick** finished Geology and will provide a running commentary on rock formations. In his spare time he enjoys mugging people off. Nick destresses by playing Euro Truck Simulator - an experience which has prepared him well for the Autobahn cruising on this trip.
 
