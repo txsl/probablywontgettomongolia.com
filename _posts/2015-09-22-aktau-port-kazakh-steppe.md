@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Day 14&#58; Clearly Customs and heading to the Steppe
+title: Day 14&#58; Clearing Customs and heading to the Steppe
 ---
 
 First things first, getting the car out of customs. We get there and talk to our friends from the ferry, who tell us that the corrupt customs officer was drunk last night and is now apparently really hungover.
